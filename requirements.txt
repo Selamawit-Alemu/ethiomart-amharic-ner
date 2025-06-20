@@ -1,0 +1,16 @@
+telethon
+pandas
+numpy
+matplotlib
+scikit-learn
+transformers
+torch
+tqdm
+flake8
+pytest
+openpyxl
+python-dotenv
+regex
+dotenv
+jupyter
+label-studio
