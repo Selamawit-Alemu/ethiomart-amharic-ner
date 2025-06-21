@@ -13,7 +13,7 @@ data/
 .env
 photos/
 *.session
-
+*.jsonl
 # Distribution / packaging
 .Python
 build/
