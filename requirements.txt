@@ -14,3 +14,7 @@ regex
 dotenv
 jupyter
 label-studio
+datasets
+seqeval
+evaluate
+accelerate>=0.26.0

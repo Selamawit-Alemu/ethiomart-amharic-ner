@@ -10,12 +10,17 @@ __pycache__/
 # project specific
 data/*
 !/data/processed/labeled_conll.txt
-
+outputs/
+logs/
+models/
+*.bin
+*.safetensors
 *.csv
 .env
 photos/
 *.session
 *.jsonl
+*.json
 # Distribution / packaging
 .Python
 build/
